@@ -1,0 +1,28 @@
+The IDE used for this project was NetBeans
+
+characters will be exported into files in this format:
+
+Name: Testy McTesterson
+
+Race: Example
+Class: Test Input
+Height: 123.0 inches
+Weight: 321.0 lbs
+Age: 456
+Hair: White
+Eyes: White
+Skin Tone:Pale
+
+Cha: 0 -5
+Dex: 0 -5
+Int: 0 -5
+Str: 0 -5
+Wis: 0 -5
+Con: 0 -5
+Attacks: Test, Test Harder, and The ULTIMATE TEST
+
+Weapon Type: Melee
+Weapon: Glaive
+Damage Value: 50
+Crit Chance: 3 %
+Chance to knockdown: 20 %

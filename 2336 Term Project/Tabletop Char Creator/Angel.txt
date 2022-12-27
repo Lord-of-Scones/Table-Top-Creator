@@ -1,0 +1,24 @@
+Name: Angel
+
+Race: Mermaid
+Class: Sorcerer
+Height: 68.0 inches
+Weight: 150.0 lbs
+Age: 25
+Hair: Purple
+Eyes: Green
+Skin Tone: Pale
+
+Cha: 20 +5
+Dex: 14 +2
+Int: 12 +1
+Str: 12 +1
+Wis: 16 +3
+Con: 18 +4
+Attacks: Magic Missile, Scorching Ray, and Cone of Cold
+
+Weapon Type: Ranged
+Weapon: Light Crossbow
+Damage Value: 40
+Crit Chance: 2 %
+Weapon Range: 80 %
